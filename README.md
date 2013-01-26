@@ -1,0 +1,1 @@
+A simple decrypter based on the ANSI X9.24 standard.  The utility can be used to decrypt DUKPT encypted track data (assumming you hold the bdk and ksn). 
