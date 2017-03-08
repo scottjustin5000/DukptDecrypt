@@ -11,7 +11,7 @@ namespace TestClient
             string sample = "[YOUR ENCRYPTED STRING]";
             string ksn = "YOUR KSN";
 
-            dec.Decrypt(ksn, bdk, sample);
+            dec.Decrypt(bdk, ksn, sample);
         }
     }
 }
